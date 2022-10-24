@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useEffect } from "react";
-import { getAllUsers } from "./Services/crud"
+import { getAllUsers, registerUser} from "./Services/crud"
 import {useState} from "react"
 
 
